@@ -1,6 +1,9 @@
-# MyThoughts.AI
+
 # Chat with Multiple documents using Google Gen AI
-This a prototype appllication which takes multiple pdf as input and then answer's questions about the pdf file using Google Gen AI Chat.
+**Here is the link to the app**
+https://app-bot-for-app-docs-using-langchain-and-gemini-pro-ibajzqxhg8.streamlit.app/
+
+This a prototype application which takes multiple documents as input and then answer's questions about the google docs file using Google Gen AI Chat.
 Please find below the documentation with explanations of functions and steps to run the application.
 
 ## Explanation of Functions
